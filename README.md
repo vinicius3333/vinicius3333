@@ -45,8 +45,7 @@ Building web and mobile products with JavaScript/TypeScript ecosystems since 201
 ## GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vinicius3333&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius3333&layout=compact&theme=github_dark&hide_border=true&hide=ShaderLab,HLSL,Starlark,Hack,PowerShell,CoffeeScript,Prolog,Objective-C,Ruby,Swift,Shell&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius3333&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## About
