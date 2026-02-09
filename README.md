@@ -41,7 +41,6 @@ Building web and mobile products with JavaScript/TypeScript ecosystems since 201
 ## What I'm building
 
 - **[MyLiftCoach](https://github.com/vinicius3333/myliftcoach)** — AI-powered mobile-first workout execution app (TypeScript, React, Bun)
-- **[viniciusluiz.dev](https://github.com/vinicius3333/viniciusluiz.dev)** — Personal blog built with Astro
 
 ## GitHub Stats
 
