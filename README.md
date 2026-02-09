@@ -50,7 +50,7 @@ Building web and mobile products with JavaScript/TypeScript ecosystems since 201
 
 ## About
 
-- Working at **Quave** on a multi-tenant SaaS platform using Meteor, React, and MongoDB
+- Working at **Quave** 
 - 2,700+ contributions in the last year
 - Background in full-stack development spanning frontend frameworks (React, Vue), backend (Node.js, .NET), and infrastructure (Docker, RabbitMQ, Nginx)
 - Focused on TypeScript-first development with an emphasis on clean architecture and fast execution UX
