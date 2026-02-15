@@ -38,10 +38,6 @@ Building web and mobile products with JavaScript/TypeScript ecosystems since 201
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-## What I'm building
-
-- **[MyLiftCoach](https://github.com/vinicius3333/myliftcoach)** — AI-powered mobile-first workout execution app (TypeScript, React, Bun)
-
 ## GitHub Stats
 
 <p>
