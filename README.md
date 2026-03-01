@@ -14,7 +14,6 @@ Building web and mobile products with JavaScript/TypeScript ecosystems since 201
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Meteor](https://img.shields.io/badge/Meteor-DE4F4F?style=flat&logo=meteor&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 
 **Frontend & styling:**
 
@@ -29,26 +28,12 @@ Building web and mobile products with JavaScript/TypeScript ecosystems since 201
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
-**Also worked with:**
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ## GitHub Stats
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius3333&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
-
-## About
-
-- 2,700+ contributions in the last year
-- Background in full-stack development spanning frontend frameworks (React, Vue), backend (Node.js, .NET), and infrastructure (Docker, RabbitMQ, Nginx)
-- Focused on TypeScript-first development with an emphasis on clean architecture and fast execution UX
 
 ---
 
